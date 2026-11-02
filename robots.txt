@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vizaitaliirs.dokufolio.com/sitemap.xml
